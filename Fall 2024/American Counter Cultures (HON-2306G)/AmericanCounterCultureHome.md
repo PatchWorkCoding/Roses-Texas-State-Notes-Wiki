@@ -10,3 +10,4 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [It's Time To Resurrect The Counter Culture](rescountercul.md)
 * [A Psychedelic Spin on "National Security"](NationSecSpin.md)
 * [Crunchy Cons](CrunchyCons.md)
+* [Counter Culture Through the Ages (chapters 1-2)](CTTA_CH1&2.md)
