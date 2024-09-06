@@ -57,3 +57,5 @@ Sandolphin is trying to get you ready to accept a hard truth through this quest
 Abraham embodies an important part of the counterculture because he is a self-inflicted outcast who built his own society on the fringes of his current society.
 
 The author is currently saying that Abraham's monotheism was a new kind of totalitarianism (and so anti counterculture.) I agree with the author here but I think it is more illuminating if you look at abraham and his god as sort of the point where counterculture turns into a religious practice. 
+
+One prevailing theme that ties countercultures together through the ages is its anti-authoritarian or non-authoritarian leanings
