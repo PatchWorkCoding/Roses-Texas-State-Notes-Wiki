@@ -11,3 +11,5 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [A Psychedelic Spin on "National Security"](NationSecSpin.md)
 * [Crunchy Cons](CrunchyCons.md)
 * [Counter Culture Through the Ages (chapters 1-2)](CTTA_CH1&2.md)
+* [IS IT RIOT GRRRL](riotGrrrl.md)
+* [The Internet Didn't Kill Counterculture](internetKillCounterculture.md)
