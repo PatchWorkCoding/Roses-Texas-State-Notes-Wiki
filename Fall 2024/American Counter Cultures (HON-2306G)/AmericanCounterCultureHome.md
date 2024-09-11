@@ -15,3 +15,5 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [IS IT RIOT GRRRL](riotGrrrl.md)
 * [The Internet Didn't Kill Counterculture](internetKillCounterculture.md)
 * [Why Johnny Can't Dissent](Johnny.md)
+* ["Self-Reliance"](selfReliance.md)
+* [Counter Culture Through the Ages (chapter 9)](CTTA_CH9.md)
