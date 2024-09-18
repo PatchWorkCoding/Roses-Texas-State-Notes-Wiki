@@ -6,6 +6,7 @@ The biggest question I want to see if I can answer is: was the counter culture k
 ## Class Notes:
 * [8-26-24](/Fall%202024/American%20Counter%20Cultures%20(HON-2306G)/8-26-28.md)
 * [9-9-24](Notes_9-9-24.md)
+* [9-16-24](Notes_9-16-24.md)
 
 ## Reading Notes:
 * [It's Time To Resurrect The Counter Culture](rescountercul.md)
