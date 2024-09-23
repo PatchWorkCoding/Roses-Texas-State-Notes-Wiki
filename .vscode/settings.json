@@ -8,5 +8,13 @@
         "transidentalists",
         "uncondusive",
         "vibing"
-    ]
+    ],
+    "files.associations": {
+        "*.yarnproject": "jsonc",
+        "iostream": "cpp",
+        "string": "cpp",
+        "xstring": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp"
+    }
 }
