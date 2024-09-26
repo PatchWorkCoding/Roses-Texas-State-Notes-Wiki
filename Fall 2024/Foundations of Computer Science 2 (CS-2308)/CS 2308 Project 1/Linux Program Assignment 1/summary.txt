@@ -1,0 +1,16 @@
+David	40
+David	40
+Martha	70
+Jim	120
+David	40
+Martha	70
+Jim	120
+David	40
+Martha	70
+Jim	120
+David	40
+Martha	70
+Jim	120
+Rose	1111110
+Rose	561110
+Rose	1111110

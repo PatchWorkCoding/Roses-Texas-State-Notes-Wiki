@@ -5,6 +5,7 @@
         "counterculturalists",
         "neurodivergent",
         "Neurodivergents",
+        "Positionality",
         "transidentalists",
         "uncondusive",
         "vibing"
@@ -15,6 +16,9 @@
         "string": "cpp",
         "xstring": "cpp",
         "fstream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp"
     }
 }
