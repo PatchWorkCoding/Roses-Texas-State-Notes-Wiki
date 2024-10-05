@@ -7,6 +7,7 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [8-26-24](/Fall%202024/American%20Counter%20Cultures%20(HON-2306G)/8-26-28.md)
 * [9-9-24](Notes_9-9-24.md)
 * [9-16-24](Notes_9-16-24.md)
+* [10-2-2024](Notes_10-2-2024.md)
 
 ## Reading Notes:
 * [It's Time To Resurrect The Counter Culture](rescountercul.md)
@@ -26,3 +27,6 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [On The Taboo Against Knowing Who You Are](TabooAgainst.md)
 * [The Land Ethic](LandEthic.md)
 * [Declaration of Planetary Rights](planetRights.md)
+* [Brook Farm and the Fouriesist Phalanx](Fouriesist.md)
+* [On the Social Destiny of Man](socialDestinyMan.md)
+* [The Utopian Colony of La Réunion as Social Mirror of Frontier Texas and Icon of Modern Dallas](laReunion.md)
