@@ -66,22 +66,7 @@ int main(int argc, char* argv[4]){
     {
         sort_score(playerName);
     }
-    /*
-    show_questions(questions[0], 2);
-    for (int i = 0; i < numberOfQuestions; i++)
-    {
-        show_questions(questions[i], -1);
-        /*
-        cout << "Question #" << i << endl;
-        cout << questions[i][4] << endl;
-        cout << questions[i][0] << endl;
-        cout << questions[i][1] << endl;
-        cout << questions[i][2] << endl;
-        cout << questions[i][3] << endl;
-        cout << "correct answers is: " << answers[i] << endl << endl;
-        
-    }
-    */
+    
     return 0;
 }
 
