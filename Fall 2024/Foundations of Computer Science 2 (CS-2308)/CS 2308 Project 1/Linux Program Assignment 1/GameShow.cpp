@@ -89,9 +89,6 @@ bool read_questions(string _questionsFileName){
         getline(questionInputStream, curline);
         if (curline.size() > 0)
         {
-            /*We story the question text in the last index so that the
-            indicies for answers match with the indicies in 
-            "POSSIBLE_ANSWERS"*/
             questions[questionIndex][4] = curline;
             getline(questionInputStream, questions[questionIndex][0]);
             getline(questionInputStream, questions[questionIndex][1]);

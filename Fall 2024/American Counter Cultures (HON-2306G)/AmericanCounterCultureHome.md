@@ -8,6 +8,8 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [9-9-24](Notes_9-9-24.md)
 * [9-16-24](Notes_9-16-24.md)
 * [10-2-2024](Notes_10-2-2024.md)
+* [10-21-2024](Notes_10-21-2024.md)
+* [10-23-2024](Notes_10-23-2024.md)
 
 ## Reading Notes:
 * [It's Time To Resurrect The Counter Culture](rescountercul.md)
@@ -31,3 +33,4 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [On the Social Destiny of Man](socialDestinyMan.md)
 * [The Utopian Colony of La Réunion as Social Mirror of Frontier Texas and Icon of Modern Dallas](laReunion.md)
 * [The Modern Utopian](theModernUtopian.md)
+* 
