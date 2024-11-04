@@ -1,4 +1,4 @@
 @ECHO off
-g++ GameShow.cpp -o gameshow.exe
-gameshow.exe questions.txt answers.txt 7
+g++ Rose_Ott_prog1.cpp -o gameshow.exe
+gameshow.exe questions.txt answers.txt 20
 pause

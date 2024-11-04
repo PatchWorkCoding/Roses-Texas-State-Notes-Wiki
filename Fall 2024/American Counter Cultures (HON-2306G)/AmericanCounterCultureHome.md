@@ -33,7 +33,10 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [On the Social Destiny of Man](socialDestinyMan.md)
 * [The Utopian Colony of La Réunion as Social Mirror of Frontier Texas and Icon of Modern Dallas](laReunion.md)
 * [The Modern Utopian](theModernUtopian.md)
-* * [Kerista Commune’s Utopian Capitalism](utopianCapitalism.md)
+* [Kerista Commune’s Utopian Capitalism](utopianCapitalism.md)
 * [The Subterranean World of Play](subWorldPlay.md)
 * [Freegan Manifesto](freeganManifesto.md)
 * [Waving the Banana at Capitalism](wavingBanana.md)
+* [Subculture: The Meaning of Style](meaningOfStyle.md)
+* [The Death and Life of Punk, the Last Subculture](punkTheLastSubculture.md)
+
