@@ -39,4 +39,6 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [Waving the Banana at Capitalism](wavingBanana.md)
 * [Subculture: The Meaning of Style](meaningOfStyle.md)
 * [The Death and Life of Punk, the Last Subculture](punkTheLastSubculture.md)
+* [Civil Disobedience](civilDis.md)
+* [Anarchism What it Really Stands For](anarchismStansForm.md)
 
