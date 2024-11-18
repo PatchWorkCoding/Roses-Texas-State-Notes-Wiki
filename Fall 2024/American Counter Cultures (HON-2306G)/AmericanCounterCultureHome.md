@@ -10,6 +10,7 @@ The biggest question I want to see if I can answer is: was the counter culture k
 * [10-2-2024](Notes_10-2-2024.md)
 * [10-21-2024](Notes_10-21-2024.md)
 * [10-23-2024](Notes_10-23-2024.md)
+* [Brainstorm outline Review](BrainstormReview.md) 
 
 ## Reading Notes:
 * [It's Time To Resurrect The Counter Culture](rescountercul.md)

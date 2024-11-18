@@ -28,3 +28,8 @@ Space complexity how much memory the algorithm takes
 The space complexity is calculated by the number variables needed to execute the algorithm and doesn't include the input
 
 If space complexity only uses one set of variables it is constant
+
+ClassName& operator=(const ClassName& inVal); <- copy constructor
+
+ClassName newObj(&oldObj); <- wrong way to call!!
+
