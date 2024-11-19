@@ -1,0 +1,4 @@
+This is the original file.
+These Classes are derived direcrtly or indirectly from the classes istream and ostream. We have already used objects whose types were these classes: cin 
+Hello World!
+Gameboy advance the world toward a better future

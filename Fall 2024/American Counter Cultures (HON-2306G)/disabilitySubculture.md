@@ -1,0 +1,7 @@
+Okay so this articles whole thesis is that there is this dilemma surrounding the Deaf community. On the one hand the Deaf community says that Deafness isn't a disability because they aren't "broken" and don't need "fixing". They have a right to be deaf and shouldn't be forced to adopt cochlear implants so they can "become normal"
+
+On the other hand they receive government disability funding and receive special accommodation on the basis of being disabled.
+
+The article is claiming that Deaf people are claiming they both are and are not disabled, and the dilemma is that if deafness through technology becomes a choice then those who choose to be deaf should no longer be accommodated by the government.
+
+This article fails in two ways. The first is that it disregards any positives that might come out of the deaf community merely treats them as a strain on public resources. It fails to see this issue from someone in that community. Secondly it has its own dilemma in its writing. It makes the claim that deaf people have a right to bodily autonomy when it comes to there deafness but it argues we should remove all the accommodations that make being deaf a possibility. this means that there is no choice between being deaf and being able to hear as you have removed deafness as a possibility. which isn't autonomy.
