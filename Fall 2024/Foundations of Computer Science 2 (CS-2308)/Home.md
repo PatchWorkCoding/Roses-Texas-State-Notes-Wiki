@@ -33,3 +33,4 @@ ClassName& operator=(const ClassName& inVal); <- copy constructor
 
 ClassName newObj(&oldObj); <- wrong way to call!!
 
+Not including a library is on the table as far as non 
