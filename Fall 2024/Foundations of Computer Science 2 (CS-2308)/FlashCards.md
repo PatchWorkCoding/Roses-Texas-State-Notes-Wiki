@@ -5,7 +5,7 @@ what is the STD library for command line IO
 * #Include \<iostream>
 
 what is the three STD libraries for file IO
-* #include \<ifstream>, #include \<ofstream>, #include \<fstream>
+    * #include \<ifstream>, #include \<ofstream>, #include \<fstream>
 
 how do add an element to a queue
 * exampleQueue.push(element);
