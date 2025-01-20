@@ -7,4 +7,4 @@ Anyway you have found your self at the index page for fall 2024 explore all 5 cl
 ## Index:
 * [American  Counter Cultures (HON-2306G)](./American%20Counter%20Cultures%20(HON-2306G)/AmericanCounterCultureHome.md)
 * [Foundations of Computer Science 2 (CS-2308)](./Foundations%20of%20Computer%20Science%202%20(CS-2308)/Home.md)
-* [Beginning Weightlifting (PFW-1110G)](/Fall%202024/Beginning%20Weightlifting%20(PFW-1110G)/WeightliftingHome2024.md)
+* [Fundamentals of Human Communication (COMM-1310)](/Fall%202024/Fundamentals%20of%20Human%20Communication%20(COMM-1310)/Home.md)
