@@ -1,6 +1,6 @@
-**Ethics**: The philosophical study of morality, a rational examination into people’s moral beliefs and behavior. 
+**Ethics**: The philosophical study of morality, a **rational** examination into people’s moral beliefs and behavior. 
 
-**Society**: an association of people organized under a system of rules designed to advance the good of its members over time. 
+**Society**: an association of people organized under a system of **rules** designed to advance the good of its members over time. 
 
 **Morality**: A Society's rules of conduct describing what people ought and ought not to do in various situations.
 
