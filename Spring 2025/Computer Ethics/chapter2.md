@@ -1,3 +1,7 @@
+# Chapter 2
+
+## What is ethics
+
 **Ethics**: The philosophical study of morality, a **rational** examination into people’s moral beliefs and behavior. 
 
 **Society**: an association of people organized under a system of **rules** designed to advance the good of its members over time. 
@@ -7,6 +11,8 @@
 The study of Ethics doesn't really exist without a society since their are no moral actors for you to do good or bad things to. *This of course assumes that Animals or the earth are not moral actors and that you can't do good or bad things to yourself*
 
 The study of Ethics only applies to actions we have control over that directly relate to morals. For example pulling the leveler to choose which track trolley goes down is an ethical questions, but choosing what color that trolley is, or walking up to the podium,tripping, and accidentally pulling the lever aren't.
+
+## Unworkable Theories
 
 **Ethical Relativism**: There are no universal moral norms of right and wrong. This Theory is often divided into to different groups, *Subjective Relativism* and *Cultural relativism*
 
@@ -19,6 +25,8 @@ Peoples biggest problem with subjective relativism is that it is often used as a
 **Divine Command Theory**: Good actions are those aligned with the will of God and bad actions are those contrary to the will of God.
 
 **Ethical Egoism**: The morally right action for a person to take in a particular situation is the action that will provide that person with the maximum long-term benefit.
+
+## Workable Theories
 
 **Kantianism**: An ethical theory derived from a specific way of reasoning developed by Kant. Central to its belief system is that there exist objective rules of morality that can be found and understood through this reasoning. To act Ethically you must abide according to the rules derived from the reasoning personal feelings be damned!
 
@@ -36,9 +44,15 @@ The example the book gives is about making a promise you wish to break later. In
 
 *Lying is immoral because it requires everyone except you not be able to lie. In this framing Kant's inflexibility is kind of seen as making an Ethical code of conduct based on fairness which I think is really interesting*
 
-The second Formulation of the Categorical Impartives is: "Act so that you always treat both yourself and other people as ends in themselves, and never only as a means to an end." Basically don't use people to get what you want, or in other words "treat people the way you want to be treated."
+The second Formulation of the Categorical Imperatives is: "Act so that you always treat both yourself and other people as ends in themselves, and never only as a means to an end." Basically don't use people to get what you want, or in other words "treat people the way you want to be treated."
+
+**In summary the two main imperatives are:** 
+* Can the law apply to everyone without contradiction? - "Act only from moral rules that you can at the same time will to be universal moral laws."
+* Does this action treat someone as an ends and not an person? - "Act so that you always treat both yourself and other people as ends in themselves, and never only as a means to an end."
 
 *The main problem I have with Kant's Philosophy is that is focused on "why" some one did somethings and not "what" they did. Take lying for example there are scenarios where it can be moral justified because it produce a better outcome for everybody than if they had told the truth. The common example of this is say a murder comes to your door and asks you for your friends address so they can go kill them. Are you morally justified in lying to that person to save your friend? The answer is yes! but to Kant the answer would be no because the act of lying is bad.*
+
+*** 
 
 **Act Utilitarianism**: An ethical Theory whose main guiding principle is that an actions moral weight is in direct correspondence to its utility.
 
@@ -58,6 +72,8 @@ Most of Utilitarianism's problems can be fixed through "better moral calculus" a
 
 *However these problems with Utilitarianism I think highlight the fact that it should be used more as a guiding principle for ethical decision making rather than a be all end all literal commandment from God. That is to say we all should approach ethical decision making from the point of maximizing good and then debate how we go about it rather than do these flat inhuman calculations and say "welp! them's the breaks" when it causes us to do objectively evil things*
 
+***
+
 **Rule Utilitarianism**: An ethical theory much like Act Utilitarianism but it applies the Principle of Utility to rules of conduct rather than individual actions.
 
 **Rule Utilitarianism Principle Addendum**: Rule Utilitarians generally add an Addendum to the principle of utility. That being we should act in a way that provides the greatest amount of good to the largest number of people.
@@ -65,6 +81,8 @@ Most of Utilitarianism's problems can be fixed through "better moral calculus" a
 Rule Utilitarianism solves the *Moral Luck* problem and is generally more flexible than Act Utilitarianism because it can be more generalized. 
 
 Rule Utilitarianism does have some of the same faults that act utilitarianism primarily that you can fiddle with the number in order to justify immoral actions through sound moral calculus due to the fact that you need to quantify and compare intangible things that might not be comparable. The big one is price tags on atrocities. Is there ever enough money in reparations that you can payout in order to justify mass killing? in a pure reading of both types of Utilitarianism there is.
+
+***
 
 **Social Contract Theory**: The Theory that members of a society implicitly agree to follow certain moral rules in order to enjoy the benefits of a society, and to live under a government strong enough to enforce these rules.
 
@@ -87,7 +105,7 @@ Social contract theory is different than Kantian theory because duties follow fr
 2. Any social and economic inequalities must satisfy two conditions: first, they are associated with positions in society that everyone has a fair and equal opportunity to assume; and second, they are “to be to the greatest benefit of the least-advantaged members of society (the difference principle)”
 
 Rawl's Theory assumes that social inequalities are just so long as the person with the most is acting in away that benefits those with the least, and that everyone in society has an equal opportunity to assume roles with more or less
-
+***
 **Virtue Ethics**: A right action is an action that a virtuous person, acting in character, would do in the same circumstances. A virtuous person is a person who possesses and lives out the virtues. The virtues are those character traits human beings need in order to flourish and be truly happy.
 
 Virtue ethics tries to take into account the person committing the action, the action itself, and the consequences all at once by having moral wisdom trump any hard moral rule. 
@@ -102,9 +120,22 @@ I a lier can tell the truth but someone with the virtue of honesty is always hon
 
 **Vice**: The exact opposite of virtue. Aristotle made the observation that virtues often existed in the middle of two vices. For example the virtue of courage
 
+## Summary
+
 **Ethical Objectivism**: The concept that morality is a thing that exist outside the human mind and can be discovered. Basically morality is like gravity. 
 
-**Workable Ethical Theories**: An ethical theory that one can use to make sound arguments about the morality of an action. The Workable theories in the book are: Act Utilitarianism, Rule Utilitarianism, Kantianism, Social Contract Theory, and Virtue Ethics.
+**Workable Ethical Theories**: An ethical theory that one can use to make sound arguments about the morality of an action to an open minded skeptic. The Workable theories in the book are: 
+* Act Utilitarianism, 
+* Rule Utilitarianism,
+* Kantianism, 
+* Social Contract Theory, 
+* Virtue Ethics.
 
 The book claims that all of the workable moral theories (Act Utilitarianism, Rule Utilitarianism, Kantianism, Social Contract Theory, and Virtue Ethics) are all Ethical Object which I tend to take issue with!
+
+**Unworkable Ethical Theories**: The unworkable theories are: 
+* Subjective Relativism,
+* Cultural Relativism,
+* Divine Command Theory,
+* Ethical Egoism.
 
