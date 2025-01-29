@@ -5,4 +5,4 @@ She desires to be unshackled from propretary software such as google docs and mi
 
 ## Index
 * [Fall 2024](Fall%202024/Fall2024Home.md)
-* [Spring 2025](Spring-2025/Spring2025Home.md)
+* [Spring 2025](Spring%202025/Spring2025Home.md)
