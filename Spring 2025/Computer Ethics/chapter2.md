@@ -72,6 +72,10 @@ Most of Utilitarianism's problems can be fixed through "better moral calculus" a
 
 *However these problems with Utilitarianism I think highlight the fact that it should be used more as a guiding principle for ethical decision making rather than a be all end all literal commandment from God. That is to say we all should approach ethical decision making from the point of maximizing good and then debate how we go about it rather than do these flat inhuman calculations and say "welp! them's the breaks" when it causes us to do objectively evil things*
 
+**Propinquity**: The closeness or proximity in either space, time, or emotionally.
+
+**Fecundity**: The ability to produce an abundance of something
+
 ***
 
 **Rule Utilitarianism**: An ethical theory much like Act Utilitarianism but it applies the Principle of Utility to rules of conduct rather than individual actions.
