@@ -23,3 +23,8 @@ Quick Cache Review: Cache works based on the principle of locality. The data cac
 Don't delete a node until you have already swapped the pointers so you don't loose references
 
 ADT are like specification documents for a data type that are data type agnostic 
+
+prints are not normally in ADTs
+
+ADTs can have multiple different implementations. For example a List ADT can be implemented either through linked-list and arrays.
+
