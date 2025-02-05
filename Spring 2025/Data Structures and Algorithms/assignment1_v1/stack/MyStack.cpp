@@ -9,6 +9,8 @@
  * Input: maxSize is the maximum number of elements that can be stored in the stack.
  */
 MyStack::MyStack(int maxSize) : maxSize(maxSize) {
+	arr = new int[maxSize];
+	top = 0;
 	// TODO
 }
 
@@ -17,7 +19,7 @@ MyStack::MyStack(int maxSize) : maxSize(maxSize) {
  * Free all memory associated with the stack.
  */
 MyStack::~MyStack() {
-	// TODO
+	delete [] arr;
 }
 
 /*
@@ -28,7 +30,15 @@ MyStack::~MyStack() {
  * Output: throw a runtime_error exception if the stack is full.
  */
 void MyStack::push(int e) {
-	// TODO
+	if (!isFull())
+	{
+		arr[top] = e;
+		top++;
+	}
+	else
+	{
+		throw std::runtime_error("Stack Overflow");
+	}
 }
 
 
@@ -40,7 +50,14 @@ void MyStack::push(int e) {
  *         throw a runtime_error exception if the stack is empty.
  */
 int MyStack::pop() {
-	// TODO
+	if(!empty()) {
+		int e = arr[top];
+		top--;
+		return e;
+	}
+	else {
+		throw std::runtime_error("Stack Underflow");
+	}
 }
 
 
@@ -50,9 +67,8 @@ int MyStack::pop() {
  * Output: return true if and only if the stack is empty.
  */
 bool MyStack::empty() const {
-	// TODO
+	return top == 0;
 }
-
 
 /*
  * Check whether the stack is full.
@@ -60,6 +76,5 @@ bool MyStack::empty() const {
  * Output: return true if and only if the stack is full.
  */
 bool MyStack::isFull() const {
-	// TODO
+	return top == maxSize;
 }
-

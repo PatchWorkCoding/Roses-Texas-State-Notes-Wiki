@@ -2,6 +2,7 @@ Peer Writing Mentor Index:
 
 ## Notes:
 * [1-22-2025](1-22-2025.md)
+* [Citing Sources Presentation]()
 
 ## Readings:
 * [Responding To Students](RespondingToStudentWriting.md)

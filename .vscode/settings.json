@@ -24,6 +24,7 @@
         "iosfwd": "cpp",
         "ostream": "cpp",
         "vector": "cpp",
-        "xiosbase": "cpp"
+        "xiosbase": "cpp",
+        "stdexcept": "cpp"
     }
 }

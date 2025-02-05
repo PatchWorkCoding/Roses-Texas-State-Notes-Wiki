@@ -115,7 +115,9 @@ Rule Utilitarianism does have some of the same faults that act utilitarianism pr
 * **Positive Rights**: A right the requires a duty that people to must do (i.e a right to free education means teachers must educate you).
 * **Negative Rights**: A right that requires a duty that people must **Not** do (i.e. A right to free speech means others must not censor your speech in public).
 * **Absolute Rights**: A right that must be fulfilled under any circumstances.
-* **Limited Rights**: A right that maybe restricted during certain circumstances (i.e You can't yell fire in a public theater).
+* **Limited Rights**: A right that maybe restricted during certain circumstances (i.e the rights that ar taken away from you when your a prisoner).
+
+Positive Rights tend to be limited rights and negative rights tend to be absolute rights. When someone has to do something their tend to be more limitations attached 
 
 Social contract theory is different than Kantian theory because duties follow from rights, where kant stated that rights followed from duties
 
@@ -124,7 +126,9 @@ Social contract theory is different than Kantian theory because duties follow fr
 2. Any social and economic inequalities must satisfy two conditions: first, they are associated with positions in society that everyone has a fair and equal opportunity to assume; and second, they are “to be to the greatest benefit of the least-advantaged members of society (the difference principle)”
 
 Rawl's Theory assumes that social inequalities are just so long as the person with the most is acting in away that benefits those with the least, and that everyone in society has an equal opportunity to assume roles with more or less
+
 ***
+
 **Virtue Ethics**: A right action is an action that a virtuous person, acting in character, would do in the same circumstances. A virtuous person is a person who possesses and lives out the virtues. The virtues are those character traits human beings need in order to flourish and be truly happy.
 
 Virtue ethics tries to take into account the person committing the action, the action itself, and the consequences all at once by having moral wisdom trump any hard moral rule. 

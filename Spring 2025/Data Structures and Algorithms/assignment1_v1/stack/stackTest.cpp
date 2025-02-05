@@ -6,10 +6,33 @@ void postfixTest() {
 	MyStack operandStack(100);
 	std::cout << "Please enter the operands (integers 1~9) and operators (+, -, *, /) one by one..." << std::endl;
 	std::cout << "and enter '=' to indicate the end of the expression and to output the result." << std::endl;
+
+	// We keep track of the digits and operators so we can skip computation if digitCounter != operatorCounter -1.
+	// Note that in a valid expression there will always be one more digit than operator
+
+	int digitCounter = 0;	 // keeps track of the number of digits in the expression
+	int operatorCounter = 0; // keeps track of the number of operators in the expression
 	
-	while(true) {
+	while (true) {
 		char inputHolder;
 		std::cin >> inputHolder;
+
+		// If the input is an '=' we know the expression has ended and we can break out of the loop
+		if (inputHolder == '=')
+		{
+			break;
+		}
+
+		// We first check to see if the inputted character is a digit
+		int possibleDigit = static_cast<int>(inputHolder - '0'); //We cache the variable so we don't have to cast it multiple times
+		
+		//If it is a valid digit push it to the stack and increment the digit counter
+		if (possibleDigit >= 0 && possibleDigit <= 9) {
+			operandStack.push(possibleDigit);
+			digitCounter++;
+		}
+
+
 
 		// TODO
 
@@ -22,7 +45,6 @@ void postfixTest() {
 		//      handout. In addition, you need to catch other errors that are not shown in the test cases in the
 	    //      handout (e.g., the user enters unknown operators or characters.)
         //   4) You can exit the infinite while-loop by using either a break statement or a return statement.
-
 	}
 }
 
