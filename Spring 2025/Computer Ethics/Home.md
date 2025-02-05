@@ -9,3 +9,4 @@ Notes:
 
 Readings:
 * [Chapter 2: Intro Ethics](chapter2.md)
+* [Anticipating Ethical Issues in emerging IT](ethicsEmergingIT.md)

@@ -72,9 +72,24 @@ Most of Utilitarianism's problems can be fixed through "better moral calculus" a
 
 *However these problems with Utilitarianism I think highlight the fact that it should be used more as a guiding principle for ethical decision making rather than a be all end all literal commandment from God. That is to say we all should approach ethical decision making from the point of maximizing good and then debate how we go about it rather than do these flat inhuman calculations and say "welp! them's the breaks" when it causes us to do objectively evil things*
 
-**Propinquity**: The closeness or proximity in either space, time, or emotionally.
+**7 Aspects of Weighing Pleasure/Pain**:
+* Intensity - How potent is the pleasure/pain of the action?
+* Duration - How long will the action last?
+* Certainty - What do we know for sure will happen if the action is taken?
+* Propinquity - The closeness or proximity of the consequence in either space and time of the action
+    * Its like the knock on effects. both in time and space.
+* Fecundity - The ability to produce an abundance of something. How wide spread is the action?
+* Purity - The calculation of the action in isolation
+* Extent - impact
 
-**Fecundity**: The ability to produce an abundance of something
+**From the Book**:
+* Intensity - magnitude of the experience
+* Duration - how long the experience lasts
+* Certainty - probability it will actually happen
+* Propinquity - how close the experience is in space and time
+* Fecundity - its ability to produce more experiences of the same kind
+* Purity - extent to which pleasure is not diluted by pain or vice versa
+* Extent - number of people affected
 
 ***
 
@@ -143,3 +158,6 @@ The book claims that all of the workable moral theories (Act Utilitarianism, Rul
 * Divine Command Theory,
 * Ethical Egoism.
 
+Morals apply to societies
+Ethics applies to people
+A workable theory has **rational** to **derive** a good course of action
