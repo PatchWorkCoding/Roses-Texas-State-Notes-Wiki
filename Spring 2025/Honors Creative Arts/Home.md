@@ -5,3 +5,4 @@ Honors Creative Art Notes and things.
 * [1-23-2025](1-23-2025.md)
 * [Group Project Ideas](GroupProj.md)
 * [1-28-2025](1-28-2025.md)
+* [Hans-On Project](handsOn.md)

@@ -4,7 +4,8 @@ Data structures Home page
 * [Lecture 1: Intro](Lecture1.md)
 * [Lecture 2: Abstraction](Lecture2.md)
 * [Lecture 3: Lists](Lecture3.md)
-* [Lecture 4: Stacks](Lecture4.md)
+* [Lecture 4: Stacks & Queues](Lecture4.md)
+* [Lecture 5: Templates](Lecture5.md)
 * [Programming Specific Lessons](prgraommingSpecifics.md)
 
 ## Exercise 1:
