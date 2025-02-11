@@ -6,6 +6,7 @@ Data structures Home page
 * [Lecture 3: Lists](Lecture3.md)
 * [Lecture 4: Stacks & Queues](Lecture4.md)
 * [Lecture 5: Templates](Lecture5.md)
+* [Lecture 6: Big-O Notation](Lecture6.md)
 * [Programming Specific Lessons](prgraommingSpecifics.md)
 
 ## Exercise 1:
