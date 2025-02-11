@@ -67,7 +67,19 @@ This is the level where the whole field of study also referred to in this case a
 #### Artifact Level
 An artifact is anything that is created as a result of a technology. To continue with the nuclear technology example artifacts from that technology would be: Nuclear Bombs, Nuclear power plants, smoke detectors, and x-ray imagining. Another product of a technology is a *procure* which is a sequences of action which under specified circumstances produces a desired result. Artifacts are similar defined to procedures but an artifact is something physical where as a procedure is something conceptual. A sword is an artifact, how one goes about making that sword is a procedure.
 
+Moral issues at this level my present themselves for 3 reasons:
+* because of the inherent character of the artifact - ??? this one is harder to pin down because it has overlap so much overlap with the other two. also because it possets the belief that an item in its mere existence can be bad.
+* because the artifact has certain unavoidable consequences - To operate a gas car it must necessarily create greenhouse gasses 
+* because certain potential application of the artifact are so dangerous that it warrants asking if the artifact should even exist - Example Nuclear Weapons
+
 *This distinction is interesting because it puts ethical weight on the existence of a device. This feels backwards to me because surely the thing that makes a devices ethically good or bad is in what it allows you to do.*
 
 #### Application Level
 This level is concerned with the actual ways a procedure or an artifact can be used both intentionally and unintentionally. Applications also encompass a devices could be modified to enable other actions.
+
+The author points out to different groups of moral issue that come from the application layer.
+1. Those moral issues that stem from potential use cases of the artifact, such as using morphine in assisted suicides or fire arms being used to commit terrorist acts
+2. Those moral issues that stem from the side-effects or unintended consequences - The production of energy in coal fire power plants that releases toxic chemicals into the atmosphere
+3. Those moral issues that pertain to the rights of certain stake holders - constructing a bitcoin mining facility that puts undo stress on the peoples power plants
+
+## Forecasting methods:
