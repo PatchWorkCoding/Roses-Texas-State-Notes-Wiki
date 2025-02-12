@@ -83,3 +83,47 @@ The author points out to different groups of moral issue that come from the appl
 3. Those moral issues that pertain to the rights of certain stake holders - constructing a bitcoin mining facility that puts undo stress on the peoples power plants
 
 ## Forecasting methods:
+Different forecasting method need to be implemented at the different levels of the ethical framework
+
+At the technology level an understanding of the technology is best acquired from the engineers as they can describe the different aspects of that technology and how it could develop going forward.
+
+The author makes an argument here that in order to understand a given technology you would really only need an engineers perspective. I don't agree with this sentiment
+
+Any ethicists who are engaging in forecasting should
+1. Utilize existing forecasting and Technology assessments about the technology if it exist
+2. Ethicists should initiate round tables and group discussions with experts in the given field that will yield predictions about the future. Experts should also comment on the viability of other future studies that you may be considering
+
+Basically forecasting is gathering a bunch of questions and checklists to fill out that try and capture as many aspects and ethical issues as possible.
+
+## Ethical Analysis
+After you do forecasting and gather information about the future and where it is progressing to you can start the analysis in full.
+
+The analysis part is broken into 3 different stages:
+
+#### Identification Stage:
+This is where you create ethical checklists of what could go wrong as well as identify problems in "Bottom Up" approach where you break away from the rigid checklist structure and simply analyze. When analyzing each of the levels there are different categories of ethical issues you can anticipate:
+* Technology Level
+    * Inherent Issues
+    * Consequential Issues
+    * Risk Issues
+* Artifact Level
+    * Inherent Issues
+    * Consequential Issues
+    * Risk Issues
+* Application Level
+    * Intended Use Issues
+    * Unintended Consequences for Users
+    * Unintended Consequences of Non-User Stakeholders
+
+#### Evaluation Stage
+This is stage where you weighs all the pros and cons of all the different issues identified and then tries to make judements calls on whether they are ethically good or bad.
+
+From the Book "the evaluation stage, at which the potential importance of ethical issues is assessed, the likelihood that they will become a significant issue in society, as well as their relation to each other, including potential value conflicts. For instance, while in the identification stage it may have been determined that behavioral profiling by Ambient Intelligence systems presents privacy issues, in the evaluation stage it is determined how serious such privacy issues would be, what the arguments would be pro and con the permissibility allowing the violation of privacy by these technologies, and how privacy may conflict with other values in the use of Ambient Intelligence technology, such as autonomy, security and well-being."
+
+## Application of ATE to information technology
+I think the author does a disservice to their own theory trying to encapsulate all technologies before then trying to tailor it to IT, if the goal is to anticipate issues in IT a ground approach focused on that field would be better.
+
+The author suggest the only tailoring needed would be an ethical checklist that encapsulates specific felids related to emerging IT
+
+This section just shows how one might go about applying the general theory to an aspect of IT
+
