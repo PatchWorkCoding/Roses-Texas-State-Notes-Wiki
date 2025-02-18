@@ -71,5 +71,14 @@ class stack
 `auto` is like `var` in c# where you just have generic data type.
 
 ## Template Class:
-Isn't a class until you define it
+Template Class function definition:
+```
+template<typename T>
+void MyClass<T>::DoSomethingWithTemplates(T parameter) {
+
+}
+```
+*Note: you always need to put `MyClass<T>` in the scope operator if it is a template class.*
+
+
 
