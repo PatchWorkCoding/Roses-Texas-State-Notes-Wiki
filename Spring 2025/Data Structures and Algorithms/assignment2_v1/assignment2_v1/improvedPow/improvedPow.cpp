@@ -11,7 +11,22 @@
  *   Return base^exp.
  */
 double improvedPowWithPosIntExp(double base, int exp) {
-	// TODO
+	std::cout << exp << std::endl;
+
+	if (exp == 1) {
+		return base;
+	}
+	if (exp % 2 == 0)
+	{
+		int value = improvedPowWithPosIntExp(base, exp / 2);
+		return value * value;
+	}
+	else
+	{
+		int value = improvedPowWithPosIntExp(base, (exp - 1) / 2);
+		return base * value * value;
+	}
+	
 }
 
 
@@ -25,7 +40,21 @@ double improvedPowWithPosIntExp(double base, int exp) {
  *   Return base^exp. If base is 0.0 and exp is negative, throw an exception
  */
 double improvedPow(double base, int exp) {
-	// TODO
+	if(base == 0 && exp < -1) {
+		throw std::runtime_error("Error! Result is Undefined");
+	}
+
+	else if (exp == 0)
+	{
+		return 0;
+	}
+
+	else if (exp < 0)
+	{
+		return 1.0 / improvedPowWithPosIntExp(base, exp * -1);
+	}
+	
+	return improvedPowWithPosIntExp(base, exp);
 }
 
 

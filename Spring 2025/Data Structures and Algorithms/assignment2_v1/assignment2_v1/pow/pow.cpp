@@ -11,7 +11,12 @@
  *   Return base^exp.
  */
 double powWithPosIntExp(double base, int exp) {
-	// TODO
+	std::cout << "Pow Called" << std::endl;
+	if (exp != 0) {
+		return base * powWithPosIntExp(base, exp - 1);
+	}
+	
+	return 1;
 }
 
 
@@ -25,7 +30,18 @@ double powWithPosIntExp(double base, int exp) {
  *   Return base^exp. If base is 0.0 and exp is negative, throw an exception
  */
 double pow(double base, int exp) {
-	// TODO
+	
+	if(base == 0 && exp < -1) {
+		//std::cout << "Error reached!";
+		throw std::runtime_error("Error! Result is Undefined");
+	}
+
+	else if (exp < 0) {
+		return 1.0 / powWithPosIntExp(base, exp * -1);
+	}
+
+	
+	return powWithPosIntExp(base, exp);
 }
 
 

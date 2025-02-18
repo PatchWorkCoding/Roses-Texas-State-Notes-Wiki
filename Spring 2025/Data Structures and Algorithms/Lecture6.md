@@ -66,3 +66,6 @@ f(n) = o(n) and f(n) = O(n) and f(n) != Θ(n)
 
 `=` should be written as `∈ `
 
+**Intractable Algorithm** - any algorithm with polyniomal big O running time `O(x) > O(n^2)`
+
+Misc Note: big O of `2^2n` is not `O(2^n)` it is `O(2^2n)` or `O(4^n)`
