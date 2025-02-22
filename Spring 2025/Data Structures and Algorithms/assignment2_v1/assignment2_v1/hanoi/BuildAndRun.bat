@@ -1,4 +1,4 @@
 @ECHO off
-g++ stackTest.cpp MyStack.cpp MyStack.h -o stackTest.exe
-stackTest.exe
+g++ hanoi.cpp -o hanoi.exe
+hanoi.exe
 pause

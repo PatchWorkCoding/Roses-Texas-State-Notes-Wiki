@@ -8,6 +8,7 @@ Data structures Home page
 * [Lecture 5: Templates](Lecture5.md)
 * [Lecture 6: Big-O Notation](Lecture6.md)
 * [Lecture 7: Recursion](Lecture7.md)
+* [Lecture 8: Sorting](Lecture8.md)
 * [Programming Specific Lessons](prgraommingSpecifics.md)
 
 ## Exercise 1:

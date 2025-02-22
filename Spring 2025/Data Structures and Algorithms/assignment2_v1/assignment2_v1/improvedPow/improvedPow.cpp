@@ -11,8 +11,6 @@
  *   Return base^exp.
  */
 double improvedPowWithPosIntExp(double base, int exp) {
-	std::cout << exp << std::endl;
-
 	if (exp == 1) {
 		return base;
 	}
@@ -53,7 +51,7 @@ double improvedPow(double base, int exp) {
 	{
 		return 1.0 / improvedPowWithPosIntExp(base, exp * -1);
 	}
-	
+
 	return improvedPowWithPosIntExp(base, exp);
 }
 

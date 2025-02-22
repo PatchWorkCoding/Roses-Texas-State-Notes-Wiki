@@ -6,3 +6,11 @@
 * Data structure - Linked list because it is self similar on many levels, Trees are another example
 
 One advantage of recursion is that it is human readable
+
+The big disadvantage is that recursion can take up a lot of space on the stack
+
+Important factors to determine for the recursive function:
+* Size Factor -
+* base case(s) - Where does the recursion stop. When does the function return something other than itself
+* general case(s) - what does the function do and where the does the function call itself
+* exit condition - 

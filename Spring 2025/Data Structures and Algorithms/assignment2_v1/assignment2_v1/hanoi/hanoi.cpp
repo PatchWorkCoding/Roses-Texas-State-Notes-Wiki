@@ -17,7 +17,14 @@
  *   Print the list of actions that move a set of n disks on the top of the tower src_tower_id to the tower dst_tower_id.
  */
 void moveTowerImpl(int n, char src_tower_id, char dst_tower_id, char spare_tower_id)  {
-	// TODO
+	if(n != 1) {
+		moveTowerImpl(n - 1, src_tower_id, spare_tower_id, dst_tower_id);
+		std::cout << "move disk " << n - 1 << " from " << src_tower_id << " to " << dst_tower_id << std::endl;
+		moveTowerImpl(n -1, spare_tower_id, dst_tower_id, src_tower_id);
+	}
+	else {
+		std::cout << "move disk " << n - 1 << " from " << src_tower_id << " to " << dst_tower_id << std::endl;
+	}
 }
 
 
