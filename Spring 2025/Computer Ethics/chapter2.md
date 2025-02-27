@@ -40,6 +40,10 @@ Kant derives these Categorical Imperatives through a series of rules or as he ca
 
 The first and most interesting is: "Act only from moral rules that you can at the same time will to be universal moral laws." Or in other words if everyone acted the way you are acting would this lead to a logical contradiction
 
+The first formulation is a two step process:
+* What is the proposed rule
+* What is the generalized version of that rule
+
 The example the book gives is about making a promise you wish to break later. In order for you to make that promise you need to have the person believe you. In order for the person to believe you then they must assume promise are always kept. If you don't keep your promises then promises aren't always kept, which means this person won't believe you. Its a contradiction. In other words if the action you commit necessitate no-universality than it is an immoral action.
 
 *Lying is immoral because it requires everyone except you not be able to lie. In this framing Kant's inflexibility is kind of seen as making an Ethical code of conduct based on fairness which I think is really interesting*

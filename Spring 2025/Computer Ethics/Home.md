@@ -9,4 +9,6 @@ Notes:
 
 Readings:
 * [Chapter 2: Intro Ethics](chapter2.md)
+* [Chapter 3: Network Communications](chapter3.md)
+* [Chapter 4: IP](IP.md)
 * [Anticipating Ethical Issues in emerging IT](ethicsEmergingIT.md)
