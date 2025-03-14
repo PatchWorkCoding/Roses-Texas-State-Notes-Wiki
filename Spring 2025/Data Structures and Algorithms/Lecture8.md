@@ -118,3 +118,4 @@ Cons of Hoare's strategy: two many edge cases such as 1 or two element arrays
 average case O(nlog(n))
 
 Worst case O(n^2)
+
