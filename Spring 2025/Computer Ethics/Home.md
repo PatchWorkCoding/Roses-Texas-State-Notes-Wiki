@@ -12,4 +12,5 @@ Readings:
 * [Chapter 3: Network Communications](chapter3.md)
 * [Chapter 4: IP](IP.md)
 * [Anticipating Ethical Issues in emerging IT](ethicsEmergingIT.md)
+* [Information Privacy](infoPriv.md)
 * [Short Paper 2](shortPaperTwoTalk.md)
