@@ -73,6 +73,10 @@ Way faster than the simple sorting algorithms
 * Merge sort's best running time is still O(nlog(n)) because it has no concept of whether the the array is already sorted
 * Merge Sorts average case is also O(nlog(n)) for the same reason
 
+Merge Sort is a stable sort - stable sort guarantees that the order of duplicates in an array will be preserved between unsorted and sorted array
+
+This is good because you can sort a list by one metric and then reordered by another metric and preserve parts of the first metric. For example you can sort people alphabetically by name and then sort them by age and you will get all the same aged people ordered alphabetically
+
 ### Quick Sort
 Most of the fastest sorting algorithms are quick sort with extra steps
 
@@ -118,4 +122,3 @@ Cons of Hoare's strategy: two many edge cases such as 1 or two element arrays
 average case O(nlog(n))
 
 Worst case O(n^2)
-
