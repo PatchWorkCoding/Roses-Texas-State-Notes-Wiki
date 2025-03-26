@@ -74,3 +74,31 @@ You can store a tree as a link list but it requires way more memory because it r
 
 Arrays also access elements faster than 
 
+Max heapify is akin to making
+We should write BUILD MAX HEAP
+
+BUILD MAX HEAP is big O(nLog(n)), because it loops over a O(Log(n)) procedure n times
+A tighter bound for BUILD MAX HEAP is O(n)
+
+We should also write HEAP SORT
+
+The way heap sort works is:
+* Build a max heap from the array
+* Swap the root (the Maximum element in the array) with the last element of the array
+* Discard this last node by decreasing the heap size
+* Reheapify on the elements of the array except those we have already sorted
+* repeat
+
+HEAP SORT works in O(nlog(n)) time
+
+HEAP SORT is a good sorting algorithm but still not as good as quick sort. Quick Sort requires both less swaps and is stable
+
+Stable again means that the sorting Algorithm... (maintains state I think)
+
+## Priority Queues:
+
+Priority queues store its data as integer key value pairs.
+
+The first element of the queue will be the key value pair w
+
+priority Queues support the following operations:
