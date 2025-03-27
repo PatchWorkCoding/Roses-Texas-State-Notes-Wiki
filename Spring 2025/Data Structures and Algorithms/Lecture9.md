@@ -95,10 +95,61 @@ HEAP SORT is a good sorting algorithm but still not as good as quick sort. Quick
 
 Stable again means that the sorting Algorithm... (maintains state I think)
 
+Reheapify is what 
+
 ## Priority Queues:
 
-Priority queues store its data as integer key value pairs.
+Priority queues store its data as key value pairs. So that you establish "importance" as to what task should be processed next
 
-The first element of the queue will be the key value pair w
+Unlike queue where it is FIFO, priorities queues will always remove the highest priority item first
 
-priority Queues support the following operations:
+An example of a priority queue would be a schedule where tasks have associated times:
+* 2:40p - Make Lunch
+* 3:00p - Do Homework
+* 3:10p - Cry
+
+As we "pop" elements from the queue we remove them based on how how soon in time they are
+
+`priorityQueue.pop(); <- returns "Make Lunch"`
+
+When adding an element to the priority queue it will be placed in according to priority.
+```
+priorityQueue.push(3:05p, "give up")
+/*List looks like:
+    * 2:40p - Make Lunch
+    * 3:00p - Do Homework
+    * 3:05p - give up
+    * 3:10p - Cry
+*/
+```
+
+### Operations
+* Insert(S,x) - insert element x into S
+* ExtractMax(S) - remove and return element of S with largest key
+* Maximum(S) - return element of S with largest key
+* IncreaseKey(S, x, k) - increase value of element `x`'s key to `k` (assuming k >= x's current key)
+
+*Note that for some implementations we will be extracting minimums rather than maximums.*
+
+Time Complexity:
+* MAX-HEAPIFY O(log n)
+* BUILD-MAX-HEAP O(n)
+* HEAP-SORT O(n log n)
+* MAX-HEAP-INSERT O(log n)
+* HEAP-EXTRACT-MAX O(log n)
+* HEAP-INCREASE-KEY O(log n)
+* HEAP-MAXIMUM O(1)
+
+
+
+*Note you can do priority Queue using linked list but it won't be as fast :(*
+
+## Problems:
+We can't know where the second largest element in the heap because we only know 
+
+* What is the maximum number of nodes in a max heap of height h?
+    * 
+* What is the maximum number of leaves?
+    * ceil(n/2)
+* What is the maximum number of internal nodes?
+    * floor(n/2)

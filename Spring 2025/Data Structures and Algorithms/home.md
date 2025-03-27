@@ -10,6 +10,7 @@ Data structures Home page
 * [Lecture 7: Recursion](Lecture7.md)
 * [Lecture 8: Sorting](Lecture8.md)
 * [Lecture 9: Heap](Lecture9.md)
+* [Lecture 10: Binary Search Tree](Lexture10.md)
 * [Programming Specific Lessons](prgraommingSpecifics.md)
 
 ## Exercise 1:
