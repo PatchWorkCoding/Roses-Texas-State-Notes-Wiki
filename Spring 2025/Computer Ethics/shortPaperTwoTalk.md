@@ -20,3 +20,9 @@ Make sure to put down the first amendment
 
 There will be true and false
 Short answer
+
+On paper 2 you need to provide a format to some link
+
+Content was good overall but there could be points knocked off for not fully answering the question
+
+On paper 2 you will be able to choose your scope

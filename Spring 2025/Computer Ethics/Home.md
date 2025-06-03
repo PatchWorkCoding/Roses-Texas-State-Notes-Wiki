@@ -14,3 +14,8 @@ Readings:
 * [Anticipating Ethical Issues in emerging IT](ethicsEmergingIT.md)
 * [Information Privacy](infoPriv.md)
 * [Short Paper 2](shortPaperTwoTalk.md)
+* [Chapter 7:](chapter8.md)
+* [Chapter 8: Computer Reliability](reliablility.md)
+* [Chapter 9: Professional Ethics](chapter9.md)
+* [Group Project](groupProject.md)
+* [Final Exam Stuff](finalExam.md)
