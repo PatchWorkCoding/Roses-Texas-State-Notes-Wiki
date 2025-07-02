@@ -50,7 +50,7 @@ Static friction is the friction force applied when the object is at rest and kin
 
 Friction force is relational to the normal force.
 
-`Fr = Mk(Fn)`
+`Fr = μk(Fn)`
 
 ## Inertial and Non-Inertial Frames
 
